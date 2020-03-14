@@ -26,6 +26,7 @@ https://www.youtube.com/watch?v=-ObImxw1PmI&list=WL&index=66&t=13s
 Cloud Development:
 https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
 https://medium.com/datadriveninvestor/devops-using-ansible-to-provision-aws-ec2-instances-3d70a1cb155f
+
 Topics:
 Virtualization
 Load Balancing
